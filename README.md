@@ -8,4 +8,6 @@ After compilation, copy src/libresdr_b210.runs/impl_1/libresdr_b210.bin to /opt/
 You can also rename the libresdr_b210.bin to usrp_b210_fpga.bin and run uhd_usrp_probe in the same folder.
 
 
-
+![Board](pics/board.jpg)
+![Specs](pics/specs.webp)
+![Schematic](pics/wiring.webp)
